@@ -1,0 +1,19 @@
+{
+  "name": "Prayer App - Pengingat Ibadah",
+  "short_name": "Prayer App",
+  "description": "Aplikasi pengingat dan log ibadah harian offline-first dengan tampilan modern dan tenang.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F8FAFC",
+  "theme_color": "#0F5132",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
